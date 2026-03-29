@@ -1,0 +1,15 @@
+
+> edusearch-frontend@0.0.0 dev
+> vite
+
+
+  VITE v5.4.21  ready in 219 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+5:37:03 PM [vite] hmr update /src/pages/SchoolPage.jsx, /src/index.css
+5:37:20 PM [vite] hmr update /src/context/SearchContext.jsx, /src/index.css
+5:37:20 PM [vite] hmr invalidate /src/context/SearchContext.jsx Could not Fast Refresh ("useSearch" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+5:37:20 PM [vite] hmr update /src/pages/SchoolPage.jsx, /src/index.css
+5:37:24 PM [vite] hmr update /src/App.jsx, /src/index.css
+5:37:32 PM [vite] hmr update /src/pages/SearchPage.jsx, /src/index.css
